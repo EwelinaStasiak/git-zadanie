@@ -20,3 +20,5 @@ def add():
 
 def shout():
     print("PLEASE, STOP SCREAMING!!!!!")
+def delete():
+    print("delete...")
