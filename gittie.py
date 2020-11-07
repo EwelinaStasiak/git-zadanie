@@ -1,5 +1,6 @@
 def introduce():
     print("Hello, I'm Gittie")
+    print("How are you?")
 
 def joke():
     user_input = False
